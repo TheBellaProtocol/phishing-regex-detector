@@ -1,0 +1,11 @@
+Received: from mail.fake-domain.com (185.23.44.10)
+    by mx.google.com with ESMTP id abc123
+    for <user@example.com>;
+    Tue, 15 Oct 2024 10:15:30 -0700
+
+From: "PayPal Security" <support@paypa1.com>
+To: user@example.com
+Subject: Urgent Action Required
+Return-Path: <support@paypa1.com>
+
+Authentication-Results: spf=fail (google.com: domain of support@paypa1.com does not designate 185.23.44.10 as permitted sender)
