@@ -1,0 +1,5 @@
+paypa[l1i]\.com
+https?:\/\/.*login.*
+(verify|urgent|suspend).*(account)
+bit\.ly
+tinyurl
