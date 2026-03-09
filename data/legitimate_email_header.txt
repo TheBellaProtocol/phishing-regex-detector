@@ -1,0 +1,13 @@
+Received: from mail.gmail.com (mail.gmail.com [209.85.220.41])
+    by mx.example.com with ESMTPS id abc123
+    for <user@example.com>;
+    Tue, 15 Oct 2024 10:15:30 -0700
+
+From: Google Security <no-reply@accounts.google.com>
+To: user@example.com
+Subject: Security Alert
+
+Return-Path: <no-reply@accounts.google.com>
+
+Authentication-Results: mx.example.com;
+    spf=pass (google.com: domain of no-reply@accounts.google.com designates 209.85.220.41 as permitted sender)
