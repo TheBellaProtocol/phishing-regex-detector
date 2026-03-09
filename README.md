@@ -22,20 +22,22 @@ This project was created to practice practical cybersecurity skills including th
 
 ## Project Structure
 
+```
 /src
-phishing_detector.py
+    phishing_detector.py
 
 /data
-phishing_samples.txt
-phishing_email_header.txt
-legitimate_email_header.txt
+    phishing_samples.txt
+    phishing_email_header.txt
+    legitimate_email_header.txt
 
 /rules
-regex_rules.txt
+    regex_rules.txt
 
 /analysis
-findings.md
-header_analysis.md
+    findings.md
+    header_analysis.md
+```
 
 ---
 
