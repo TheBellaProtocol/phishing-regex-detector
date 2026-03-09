@@ -1,0 +1,13 @@
+Dear Customer,
+
+Your PayPal account has been temporarily suspended.
+
+To restore access please verify your account immediately.
+
+Click here to verify your login:
+http://paypal.verify-login.security-check.com
+
+Failure to verify within 24 hours will result in account suspension.
+
+Thank you,
+PayPal Security Team
