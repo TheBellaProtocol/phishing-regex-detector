@@ -22,24 +22,20 @@ This project was created to practice practical cybersecurity skills including th
 
 ## Project Structure
 
-phishing-regex-detector
-│
-├── README.md
-│
-├── src
-│ └── phishing_detector.py
-│
-├── data
-│ ├── phishing_samples.txt
-│ ├── phishing_email_header.txt
-│ └── legitimate_email_header.txt
-│
-├── rules
-│ └── regex_rules.txt
-│
-└── analysis
-├── findings.md
-└── header_analysis.md
+/src
+phishing_detector.py
+
+/data
+phishing_samples.txt
+phishing_email_header.txt
+legitimate_email_header.txt
+
+/rules
+regex_rules.txt
+
+/analysis
+findings.md
+header_analysis.md
 
 ---
 
